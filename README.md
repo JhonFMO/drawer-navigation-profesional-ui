@@ -11,7 +11,9 @@
 
 ## Tampilan UI
 
-![Contoh UI Drawer Navigation Profesional](https://user-images.githubusercontent.com/12345678/123456789-drawer-ui-profesional.png)
+<img src ="Screenshot 2025-05-13 225442.png">
+<img src ="Screenshot 2025-05-13 225454.png">
+<img src ="Screenshot 2025-05-13 225528.png">
 
 **Keterangan Gambar:**
 - Bagian kiri menampilkan drawer dengan ikon dan label menu (Dashboard, Profil, Pengaturan, Logout)
